@@ -1,5 +1,5 @@
-this project on Kaggle https://www.kaggle.com/code/faisalaryan/spaceship-titanic
+This project on Kaggle https://www.kaggle.com/code/faisalaryan/spaceship-titanic
 
-to contribute https://www.kaggle.com/faisalaryan
+To contribute https://www.kaggle.com/faisalaryan
 
 Thank you
